@@ -69,3 +69,9 @@ This Python project implements a virtual mouse controlled by hand gestures using
 ## 🙌 Contributing 🙌
 
 Contributions are welcome! 🤝 Please feel free to submit pull requests or open issues. 🐛
+
+---
+
+## License
+This project is licensed as **proprietary and confidential**.  
+**You may not reuse, modify, or redistribute any part of this code.**
